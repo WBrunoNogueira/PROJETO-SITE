@@ -1,2 +1,2 @@
 # PROJETO-SITE
- Projeto de um site Git e GitHub
+ Projeto de um site Git e GitHub (TESTE-APRENDIZADO)
